@@ -4,7 +4,7 @@
 * Stochastic Gradient Descent (SGD)
 
 ## Dependencies
-PyTorch 0.2.0
+PyTorch 0.4.0
 
 ## Example
 
